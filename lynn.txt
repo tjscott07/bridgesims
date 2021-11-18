@@ -1,0 +1,8 @@
+Shortcut,1NTDBL,Long Minor or Both Majors\n
+Shortcut,1NT2Clubs,Clubs and a Higher\n
+Shortcut,1NT2Diam,Diamonds and a Higher\n
+Shortcut,1NT2NT,Both minors or Both Majors\n
+Shortcut,1NT3Bids,Preemptive 7+ Card Suit\n
+Shortcut,Astro,5+ cards in lowest minor 4+ card lowest Major\n
+Shortcut,Inverted,5+ in Minor 12+ HCP\n
+Shortcut,CrisCross,5+ in Minor 9-11 HCP\n

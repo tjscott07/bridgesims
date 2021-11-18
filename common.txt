@@ -1,0 +1,14 @@
+Shortcut,DJ,Welcome from David and Jerry from Mobeale Alabama. Roll Tide!!\nOur CC is Posted. We play SAYC With 12-14 Notrump and Meckwell No Trump defense.\nUDA if we lead Std if you lead.\n
+Shortcut,MJ,Welcome from Mary and Jerry from Alabama Roll Tide \nWe play SAYC and Std Leads and Signals Our CC is Posted\n
+Shortcut,LJ,Welcome from Lynn from Penn and Jerry from Bama  2 over 1 \n UDA if we lead Std if you lead  Meckwell against Notrump\n
+Shortcut,BJ,Welcome from Bill and Jerry from Mobeale AL\n  2/1 and DONT  Std leads and signals\n
+Shortcut,GL,Have a nice day and Good luck on the rest of the boards!\n
+Shortcut,NPlayP,Nicely Played Partner!\n
+Shortcut,NDEF,Nice Defense!\n
+Shortcut,Force,Forcing for 1 round\n
+Shortcut,Gerber,4D=0 or 4 4H = 1 4S = 2 4NT = 3
+Shortcut,Limit+,Limit Raise or better\n
+Shortcut,Weak2,Weak 2  6+ Card suit less than 12 HCP\n
+Shortcut,NMForce,New Minor Force\n
+Shortcut,WeakJmp,6+ card suit Preemptive\n
+Shortcut,Preempt,long suit not opening hand\n

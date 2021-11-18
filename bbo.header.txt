@@ -1,0 +1,21 @@
+BBOALERT,
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/common.txt
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/dj.bboalerts.txt
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/lynn.txt
+
+BBOALERT,
+Error
+TypeError: Failed to fetch https://s3.amazonaws.com/tjscissp.wwww/bbo/common.txt
+Error
+TypeError: Failed to fetch https://s3.amazonaws.com/tjscissp.wwww/bbo/dj.bboalerts.txt
+Error
+TypeError: Failed to fetch https://s3.amazonaws.com/tjscissp.wwww/bbo/lynn.txt
+
+
+BBOALERT,
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/common.txt
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/dj.bboalerts.txt
+Import,https://s3.amazonaws.com/tjscissp.wwww/bbo/lynn.txt
+
+BBOalert 6.4.0.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63
