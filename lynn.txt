@@ -6,3 +6,4 @@ Shortcut,1NT3Bids,Preemptive 7+ Card Suit\n
 Shortcut,Astro,5+ cards in lowest minor 4+ card lowest Major\n
 Shortcut,Inverted,5+ in Minor 12+ HCP\n
 Shortcut,CrisCross,5+ in Minor 9-11 HCP\n
+Shortcut,LJ,Welcome from Lynn in Pennsylvania and Jerry from Alabama.\n
