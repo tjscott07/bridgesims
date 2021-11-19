@@ -1,4 +1,3 @@
-BBOAlert,
 Shortcut,DJ,Welcome from David and Jerry from Mobeale Alabama. Roll Tide!!\nOur CC is Posted. We play SAYC With 12-14 Notrump and Meckwell No Trump defense.\nUDA if we lead Std if you lead.\n
 Shortcut,MJ,Welcome from Mary and Jerry from Alabama Roll Tide \nWe play SAYC and Std Leads and Signals Our CC is Posted\n
 Shortcut,LJ,Welcome from Lynn from Penn and Jerry from Bama  2 over 1 \n UDA if we lead Std if you lead  Meckwell against Notrump\n
@@ -124,3 +123,4 @@ Shortcut,1NT3Bids,Preemptive 7+ Card Suit\n
 Shortcut,Astro,5+ cards in lowest minor 4+ card lowest Major\n
 Shortcut,Inverted,5+ in Minor 12+ HCP\n
 Shortcut,CrisCross,5+ in Minor 9-11 HCP\n
+Shortcut,Welc,Welcome  We are Lynn from Pennsylvania and Jerry from Bama\n
