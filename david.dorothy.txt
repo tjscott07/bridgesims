@@ -1,0 +1,162 @@
+Shortcut,DJ,Welcome from David and Jerry from Mobeale Alabama. Roll Tide!!\nOur CC is Posted. We play SAYC With 12-14 Notrump and Meckwell No Trump defense.\nUDA if we lead Std if you lead.\n
+Shortcut,DixieGal2,Welcome from Dorothy from Montgomery and David from Loxley AL\n
+Shortcut,GL,Have a nice day and Good luck on the rest of the boards!\n
+Shortcut,NPlayP,Nicely Played Partner!\n
+Shortcut,NDEF,Nice Defense!\n
+Shortcut,Force,Forcing for 1 round\n
+Shortcut,Gerber,4D=0 or 4 4H = 1 4S = 2 4NT = 3
+Shortcut,RKC1430,Roman Keycard 1430\n
+Shortcut,Limit+,Limit Raise or better\n
+Shortcut,Weak2,Weak 2  6+ Card suit less than 12 HCP\n
+Shortcut,NMForce,New Minor Force\n
+Shortcut,WeakJmp,6+ card suit Preemptive\n
+Shortcut,Preempt,long suit not opening hand\n
+Shortcut,Jordan2N,4 trumps and 10+ HCP\n
+Shortcut,Michaels,Top 2 Unbid Suits\n
+Option,dlscott
+,1N,12-14 Balanced 5332 or 5422 or 4432 or 4333
+,1C,Either 3+ Clubs or a Balanced 15-19 Notrump
+,1D,4+ Diamonds
+,2C,21+ HCP or 4 or less losers
+2C--2D,Waiting
+2C--2N,3+ Controls
+,2D,Weak 2 6+D 6-11 HCP
+,2H,Weak 2 6+H 6-11 HCP
+,2S,Weak 2 6+S 6-11 HCP
+1N--2D,Relay to Hearts
+1N--2H,Spades
+1N--2S,Clubs or Minor Suit Stayman
+1N--2N,Diamonds
+1H--2NT,Step Jacoby 10+ HCP, 4+ Trumps
+1H--3H,4 trumps with 7-9 HCP
+1HDB2N,4 trumps and 10+ HCP
+1H--1S,forcing
+1H--1N,To Play
+1H--2C,Forcing artificial
+1H--2D,9+ HCP with 5+ Diamonds
+1H--2S,preemptive 6+ Spades
+1S--2NT,Step Jacoby 10+ HCP 4+ Trumps
+1S--3S,4 trumps with 7-9 HCP
+1SDB2N,4 trumps and 10+ HCP
+1S--1N,Forcing 5-11 HCP
+1S--2C,Forcing artificial
+2D--2H,Asking bid in Hearts
+2D--2H--2S,2 Hearts Good Hand
+2D--2H--2N,3 Hearts Good Hand
+2D--2H--3C,3 Hearts Weak Hand
+2D--2H--3D,Weak Hand No Heart Support
+2D--2S,Asking bid in Spades
+2D--2S--2N,2 or 3 Spades Good Hand
+2D--2S--3C,3 Spades Weak Hand
+2D--2S--3D,Weak Hand No Spade Support
+2D--2N,Asking for a feature
+2D--3C,Clubs Not Forcing
+2H--2S,Asking bid in Spades
+2H--2S--2N,2 Spades Good Weak 2
+2H--2S--3C,3 Spades  Good Weak 2
+2H--2S--3D,3 Spades  Weak Hand
+2H--2S--3H,Weak Hand No Spade Support
+2H--2N,Asking for a feature
+2H--3C,Clubs Not Forcing
+2H--3D,Diamonds Not Forcing
+2H--3H,Bid Game with Good Hearts
+2S--2N,Forcing asking for Feature
+2S--3[CDH],Not Forcing
+Shortcut,5D4CM,4 Card Major and 5+ Diamonds\n
+Shortcut,MWDBL,Long Minor or Both Majors\n
+Shortcut,MW2Clubs,Clubs and a Higher\n
+Shortcut,MW2Diam,Diamonds and a Higher\n
+Shortcut,MW2NT,Both minors or Both Majors\n
+Shortcut,MW3Bids,Strong Hands 7+ Trumps\n
+Shortcut,JStep,Jacoby Step Raise 4+ trumps 10+ HCP \n
+Shortcut,1C1D,5+ HCP 4+ Hearts\n
+Shortcut,1C1H,5+ HCP 4+ Spades less than 4 Hearts\n
+Shortcut,1C1S,5-11 HCP not a 4 card major\n
+Shortcut,1C?1NT,15-17 HCP\n
+Shortcut,1C1N,12+ HCP  Game Force\n
+Shortcut,1C2C,6-9 Total Points 5+ Clubs\n
+Shortcut,1C2N,10-11 HCP Major Stoppers\n
+Shortcut,1C3C,10-12 Total Points 5+ Clubs\n
+Shortcut,--,
+Shortcut,1D1N,6-10 HCP Not a 4-Card Major\n
+Shortcut,1D2C,Opening Hand Not a 4-Card Major\n
+Shortcut,1D2D,6-10 Total Point raise Not a 4-Card Major\n
+Shortcut,1D2N,11-12 HCP Not a 4-Card Major\n
+Shortcut,1D3C,7+ Clubs preemptive\n
+Shortcut,1D3D,11+ Total Point Raise\n
+Shortcut,--, 
+Shortcut,1H1S,Forcing\n
+Shortcut,1H2C,Big Hand May not have Clubs\n
+Shortcut,1H2N3C,11-13 HCP\n
+Shortcut,1H2N3C3D,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1H2N3D,14-16 HCP\n
+Shortcut,1H2N3D3H,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1H2N3H,17+ HCP\n
+Shortcut,1H2N3H3S,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1H3C,0-1 Hearts 7+ Clubs Preemptive\n
+Shortcut,1H3D,0-1 Hearts 7+ Diamonds Preemptive\n
+Shortcut,1H3H,4+ Trumps 7-9 HCP\n
+Shortcut,1H3S,0-1 Hearts 7+ Spades Preemptive\n
+Shortcut,--, 
+Shortcut,1S1N,Forcing 6-11 HCP\n
+Shortcut,1S2C,Big Hand May not have Clubs\n
+Shortcut,1SDB2N,4 trumps and 10+ HCP\n
+Shortcut,1S2N3C,11-13 HCP\n
+Shortcut,1S2N3C3D,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1S2N3D,14-16 HCP\n
+Shortcut,1S2N3D3H,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1S2N3H,17+ HCP\n
+Shortcut,1S2N3H3S,Shortness? 5 Step NCDO6 Responses\n
+Shortcut,1S3C,0-1 Spades 7+ Clubs Preemptive\n
+Shortcut,1S3D,0-1 Spades 7+ Diamonds Preemptive\n
+Shortcut,1S3H,0-1 Spades 7+ Hearts Preemptive\n
+Shortcut,1S3S,4+ Trumps 7-9 HCP\n
+Shortcut,--,  
+Shortcut,1N2C,Stayman\n
+Shortcut,1N2Cx2N,10-11 HCP\n
+Shortcut,1N2D,relay to Hearts\n
+Shortcut,1N2D2H2N,12 HCP\n
+Shortcut,1N2D2H3C,5-5 in Minors\n
+Shortcut,1N2D2H3D,5-5 in Majors\n
+Shortcut,1N2H,Spades\n
+Shortcut,1N2S,Minor Suit Stayman or 6 clubs\n
+Shortcut,1N2N,6+ Diamonds weak hand\n
+Shortcut,1N3C,Bid 3N with Club Feature\n
+Shortcut,1N3D,Bid 3N with Diamond Feature\n
+Shortcut,1N3HS,Slam try\n
+Shortcut,Smolen,5-4 in Majors
+Shortcut,--,  
+Shortcut,2CLUB,Strong Hand 21+ HCP or less than 4 losers\n
+Shortcut,2C2D,Waiting\n
+Shortcut,2C2HS,5+ with 2 Honors\n
+Shortcut,2C2N,3 Controls 1 Ace 1 King or 3 Kings\n
+Shortcut,--, 
+Shortcut,2D2H,Heart asking bid 3D=minimum hand\n
+Shortcut,2D2S,Spade asking bid 3D=minimum hand\n
+Shortcut,2D2N,Forcing Asking for feature\n
+Shortcut,2D3C,Non Forcing\n
+Shortcut,2H2S,Spade asking bid 3H=minimum hand\n
+Shortcut,2H2N,Forcing Asking for feature\n
+Shortcut,2H3C,Non Forcing\n
+Shortcut,2H3D,Non Forcing\n
+Shortcut,2H3H,I have Good Trumps Invitational\n
+Shortcut,2S2N,Forcing feature asking bid\n
+Shortcut,2D3C,non Forcing with long clubs\n
+Shortcut,2S3D,Non Forcing with long diamonds\n
+Shortcut,2S3H,Non forcing with long Hearts\n
+Shortcut,2S3S,I have Good Trumps Invitational\n
+Shortcut,--, 
+Shortcut,Puppet,Asking for 5-4 Major fit\n
+Shortcut,2N3C3D,Have a 4-Card Major\n
+Shortcut,2N3C3H,5+ Hearts\n
+Shortcut,2N3C3S,5+ Spades\n
+Shortcut,2N3C3N,No 4-Card Major\n
+Shortcut,2N3S,Minor Suit Stayman\n
+Shortcut,2N3S3N,I like Clubs\n
+Shortcut,2N3S4C,I like Diamonds\n
+Shortcut,2N3N,6+ Diamonds weak\n
+Shortcut,2N4C,Gerber\n
+Shortcut,2N4D,Hearts\n
+Shortcut,2N4H,Spades\n
+Shortcut,2N4S,Pick your Best Minor\n
+Shortcut,2N4N,Quantitative Slam Try\n
