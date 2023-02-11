@@ -1,4 +1,3 @@
-BBOALERT,
 Import,github.com/tjs.cissp/020823.dj.bbo.shortcuts.txt
 Option,dlscott
 Shortcut,PreA,Our 1!C shows an unbalanced 11+ HCP hand with 3+!Cs or a balanced 15-17 HCP hand with any 5-card suit.\n
