@@ -1,0 +1,146 @@
+Option,dlscott
+Shortcut,PreA,Our 1!C shows an unbalanced 11+ HCP hand with 3+!Cs or a balanced 15-17 HCP hand with any 5-card suit.\n
+Shortcut,WelC,Welcome from Jerry and David from Alabama\n
+Shortcut,WePlay,We play 2/1 12-14 Notrumps Ambiguous 2!C major suit raises Lebensol  UDA and Suit Preference is we lead  Std Count if you lead\n
+Shortcut,NPP,Nicely Played Partner\n
+Shortcut,NDef,Nice Defense\n
+Shortcut,****,\n
+Shortcut,1C,3+C unbal and 11+HCP or 15-17 Balanced with any 5-card suit\n
+Shortcut,1C1D,Shows 4 !Hs and 5+ HCP\n
+Shortcut,1C1H,Shows 4 !S and 5+ HCP\n
+Shortcut,1C1S,6+ HCP No 4 card majon \n
+Shortcut,1C1N,Game Force Does not deny a 4 card major\n
+Shortcut,1C1N2C,More !Cs than !Ds\n
+Shortcut,1C1N2D,Balanced 15-17 HCP More !Ds than !Cs\n
+Shortcut,1C1N2H,Balanced 15-17 HCP 4+!Hs\n
+Shortcut,1C1N2S,Balanced 15-17 HCP 4+!Ss\n
+Shortcut,1C1N2N,Balanced 18-19 HCP\n
+Shortcut,1C2C,!C Limit raise\n
+Shortcut,1C2D,Constructive 6 card !D suit\n
+Shortcut,1C2H,4+!H 5!S 5-8 HCP\n
+Shortcut,1C2S,4+!H 5!S 9-12 HCP\n
+Shortcut,1CU2DB,Can Beat one of their suits\n
+Shortcut,1CU23C,Non forcing !C raise\n
+Shortcut,1CU23D,Limit raise in Clubs\n
+Shortcut,1Cxx1NT,15-17 balanced\n
+Shortcut,****,\n
+Shortcut,1D,4+ !Ds\n
+Shortcut,1D1N,6-10 HCP No 4-Card Major\n
+Shortcut,1D2C,Game Force No 4-Card Major\n
+Shortcut,1D2C2H,4441 with a Singleton !C\n
+Shortcut,1D2C2S,Good !C raise\n
+Shortcut,1D2C3C,3-card !C raise\n
+Shortcut,1D2C2N,18-19 HCP Balanced\n
+Shortcut,1D3C,7+ Clubs preemptive\n
+Shortcut,1D3D,5+!Ds less than limit raise HCP\n
+Shortcut,1DU2DB,Can Beat one of their suits\n
+Shortcut,1DU23C,Limit Raise in !Ds\n
+Shortcut,1DU23D,Non Forcing !D raise\n
+Shortcut,****,\n
+Shortcut,1H1S,3+ Forcing\n
+Shortcut,1H1N,Forcing\n
+Shortcut,1H2C,3+!Hs 5 to 18 HCP\n
+Shortcut,1H2D,Game force in !Ds\n
+Shortcut,1H2H,4+!Hs 10+ HCP\n
+Shortcut,1H2S,4+!Hs 8-9 HCP and a Singleton\n
+Shortcut,1H2N,Game Force in !Cs\n
+Shortcut,1H3C,!H limit raise with Good !Cs\n
+Shortcut,1H3D,!H limit raise with Good !Ds\n
+Shortcut,1H3H,4!Hs Balanced with 8-9 HCP\n
+Shortcut,1H3N,5!Hs and 4 controls Ace is 2 King is 1\n
+Shortcut,1HDB2N,4 trumps and 10+ HCP\n
+Shortcut,1HU2DB,Can Beat one Minor Suit \n
+Shortcut,1HU23C,Limit raise in !H\n
+Shortcut,1HU23D,5+!Ss Non Forcing\n
+Shortcut,1HU23S,5+!Ss Forcing\n
+Shortcut,****,\n
+Shortcut,1S1N,Forcing\n
+Shortcut,1S2C,3+!Ss 5 to 18 HCP\n
+Shortcut,1S2D,Game force in !Cs or !Ds\n
+Shortcut,1S2H,Game force in !Hs less than 3!Ss\n
+Shortcut,1S2S,4+!Ss 10+ HCP\n
+Shortcut,1S2N,4+!Ss 8-9 HCP and a Singleton\n
+Shortcut,1S3C,!S limit raise with Good !Cs\n
+Shortcut,1S3D,!D limit raise with Good !Ds\n
+Shortcut,1S3H,7+!Hs Less than 2!Ss Not Forcing\n
+Shortcut,1S3S,4!Ss Balanced with 8-9 HCP\n
+Shortcut,1S3N,5!Ss and 4 controls Ace is 2 King is 1\n
+Shortcut,1SDB2N,4 !Ss and 10+ HCP\n
+Shortcut,1SU2DB,Can Beat one Minor Suit \n
+Shortcut,1SU23C,5+!Hs Non Forcing\n
+Shortcut,1SU23D,Limit raise in !S\n
+Shortcut,1SU23H,5+!Hs Forcing\n
+Shortcut,****,
+Shortcut,WNT,12-14 Balanced\n
+Shortcut,1N2D,!Hs\n
+Shortcut,1N2H,!Ss\n
+Shortcut,1N2S,Asking for HCP\n
+Shortcut,1N2N,!Ds\n
+Shortcut,1N3C,5+4+ in minors Not Game Forcing\n
+Shortcut,1N2D,55 in minors Forcing\n
+Shortcut,1N3H,54 in minors  Asks partner to bid 3N with !H stopped\n
+Shortcut,1N3S,54 in minors  Asks partner to bid 3N with !S stopped\n
+Shortcut,****,
+Shortcut,MWDBL,6+ card Minor or Both Majors\n
+Shortcut,MW2C,4+ !Cs and a higher suit\n
+Shortcut,MW2D,!Ds and a higher suit\n
+Shortcut,MW2H,5+Hs\n
+Shortcut,MK2S,5+Ss\n
+Shortcut,MK2NT,55 in minors or 55 in Hearts\n
+Shortcut,****,
+Shortcut,LB2CDB,Stayman or !Cs if 2!C shows a single suited hand\n
+Shortcut,LB2C2D,!Hs\n
+Shortcut,LB2C2H,!Ss\n
+Shortcut,LB2C2S,HCP ask or !Cs\n
+Shortcut,LB2C2N,Asks partner to Bid 3!C\n
+Shortcut,LB2dDB,Stolen Bid !Hs\n
+Shortcut,LB2d2H,8+ HCP Takeout with 4!Ss\n
+Shortcut,LB2d2S,To play Not Forcing\n
+Shortcut,LB2d2N,Asks partner to Bid 3!C\n
+Shortcut,LB2HDB,Stolen Bid\n
+Shortcut,LB2H2S,Takeout Double with 8+ HCP and 4!Ss\n
+Shortcut,LB2H2N,Asks partner to Bid 3!C\n
+Shortcut,LB2X3Y,Forcing Bid\n
+Shortcut,LB2X3N,12+ HCP No Stopper\n
+Shortcut,LB2X3X,12+ HCP + Stopper\n
+Shortcut,****, 
+Shortcut,2CLUB,Strong Hand 21+ HCP or less than 4 losers\n
+Shortcut,2C2D,Waiting\n
+Shortcut,2C2H,5+ !Hs with 2 Honors\n
+Shortcut,2C2S,5+ !Ss with 2 Honors\n
+Shortcut,2C2N,3 Controls 1 Ace 1 King or 3 Kings\n
+Shortcut,2C3C,4+ Controls 2 Aces or 1 Ace and 2+ Kings\n
+Shortcut,Bust,Bust hand  Place Contract\n
+Shortcut,****, 
+Shortcut,2D2H,!H asking bid 3!D=minimum hand 0-1!H 2!S=!H Honor 2N=3!H 3!C=3+!Hs with a !H Honor\n
+Shortcut,2D2S,!S asking bid 3!D=minimum hand 0-1!S 2N=!S Honor 3C=2+!S with a !S Honor \n
+Shortcut,2D2N,Forcing Asking for feature\n
+Shortcut,2D3C,!Cs Non Forcing\n
+Shortcut,2D3D,!D Competitive raise\n
+Shortcut,****, 
+Shortcut,2H2S,Spade asking bid 3!H=minimum hand 0-1!S 2N=!S Honor 3C=3!Ss 3D=3!Ss with a !S Honor\n
+Shortcut,2H2N,Forcing Asking for feature\n
+Shortcut,2H3C,!Cs Non Forcing\n
+Shortcut,2H3D,!DS Non Forcing\n
+Shortcut,2H3H,!H Competitive raise\n
+Shortcut,****, 
+Shortcut,2S2N,Forcing feature asking bid\n
+Shortcut,2D3C,Long !Cs non Forcing\n
+Shortcut,2S3D,Long !Ds Non Forcing\n
+Shortcut,2S3H,Long !Hs Mpn Forcing\n
+Shortcut,2S3S,!S Competitive raise\n
+Shortcut,****, 
+Shortcut,Puppet,Asking for 5 Card Major\n
+Shortcut,2N3C3D,Have a 4-Card Major\n
+Shortcut,2N3C3H,5+ !Hs\n
+Shortcut,2N3C3S,5+ !Ss\n
+Shortcut,2N3C3N,No 4-Card Major\n
+Shortcut,2N3D,!Hs\n
+Shortcut,2N3H,!Ss\n
+Shortcut,2N4D,!Hs\n
+Shortcut,2N4H,!Ss\n
+Shortcut,2N3S,Relay to 3NT\n
+Shortcut,2N3S3N4C,!D Slam Try\n
+Shortcut,2N3S3N4D,!C Slam Try\n
+Shortcut,2N3CXX4C,Long !Cs not forcing\n
+Shortcut,2N3CXX4D,Long !Ds not forcing\n
